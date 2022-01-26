@@ -1,12 +1,13 @@
 ---
 title: Wang Pengfei
-role: Assistant Researcher for computer security
+role: Assistant Professor for computer security
 bio: My research interests include system security, vulnerability detection,
   program analysis, fuzzing test.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - system security
+  - vulnerability detection
+  - program analysis
+  - fuzzing test.
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,8 +33,7 @@ email: pfwang@nudt.edu.cn
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wang Pengfei is an assistant professor of computer security at the Department of Network and Cyber Security, National University of Defense Technology. His research interests include system security, vulnerability detection, program analysis, and fuzzing test. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
