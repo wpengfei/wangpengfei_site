@@ -1,8 +1,8 @@
 ---
 widget: about
-widget_id: about
+widget_id: About
 headless: true
-weight: 10
+weight: 20
 title: Biography
 active: true
 design:
