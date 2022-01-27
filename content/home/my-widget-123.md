@@ -2,7 +2,7 @@
 widget: accompulishments
 widget_id: accomplishments
 headless: true
-weight: 0
+weight: 20
 active: true
 design:
   columns: "2"
