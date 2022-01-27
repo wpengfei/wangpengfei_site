@@ -1,8 +1,9 @@
 ---
-widget: accomplishments
-widget_id: my-widget-123
+widget: about
+widget_id: about
 headless: true
 weight: 10
+title: Wang Pengfei
 active: true
 design:
   columns: "2"
