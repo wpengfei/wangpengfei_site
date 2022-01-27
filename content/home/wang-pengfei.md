@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: about-me
 widget_id: Wang Pengfei
 headless: true
 weight: 10
