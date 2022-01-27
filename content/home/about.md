@@ -1,9 +1,9 @@
 ---
 widget: about
-widget_id: About
+widget_id: Wang Pengfei
 headless: true
-weight: 20
-title: Biography
+weight: 30
+title: Wang Pengfei
 active: true
 design:
   columns: "2"
