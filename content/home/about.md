@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Wang Pengfei
+widget_id: Biography
 headless: true
 weight: 30
 title: Wang Pengfei
