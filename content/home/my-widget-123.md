@@ -1,6 +1,6 @@
 ---
 widget: accompulishments
-widget_id: my-widget-123
+widget_id: accomplishments
 headless: true
 weight: 0
 active: true
