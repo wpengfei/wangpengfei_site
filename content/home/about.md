@@ -3,6 +3,7 @@ widget: about
 widget_id: about
 headless: true
 weight: 10
+title: Biography
 active: true
 design:
   columns: "2"
